@@ -110,14 +110,15 @@ Shared understanding was reached across every required dimension: why the projec
 
 ## 6. Lessons Learned
 
-Lessons Learned
-
 - Asking one question at a time kept the discussion focused.
 - Self-review identified several genuine gaps that would otherwise have reached PROJECT.md.
 - Separating Product Discovery from Architecture prevented premature technical decisions.
 - Explicitly documenting tensions improved decision quality.
 - Evidence-first positioning emerged naturally through the interview rather than being predefined.
-## 6. Definition of Done
+
+---
+
+## 7. Definition of Done
 
 - [x] The Product Owner confirms the understanding.
 - [x] No critical product questions remain.
